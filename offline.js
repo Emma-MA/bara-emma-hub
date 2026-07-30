@@ -1,0 +1,29 @@
+﻿{
+	"version": 1785437408,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/spriteqr-sheet0.png",
+		"images/spritelogo-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"jquery.mobile.flatui.css",
+		"Flat-UI-Icons-24.ttf",
+		"Flat-UI-Icons-24.woff",
+		"lato-black.ttf",
+		"lato-black.woff",
+		"lato-bold.ttf",
+		"lato-bold.woff",
+		"lato-italic.ttf",
+		"lato-italic.woff",
+		"lato-regular.ttf",
+		"lato-regular.woff",
+		"ajax-loader.gif"
+	]
+}
